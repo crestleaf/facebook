@@ -30,7 +30,7 @@ class FacebookStrategy extends OpauthStrategy{
 	/**
 	 * Facebook API version
 	 */
-	public $version = 'v2.3';
+	public $version = 'v2.2';
 
 	/**
 	 * Auth request
